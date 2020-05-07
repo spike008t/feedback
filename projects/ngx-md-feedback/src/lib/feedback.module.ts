@@ -15,7 +15,7 @@ import {
 } from '@angular/material';
 import {FeedbackInternalService} from './feedback.service';
 import {FeedbackDirective} from './feedback.directive';
-import { OverlayModule, OVERLAY_PROVIDERS } from '@angular/cdk/overlay';
+import { OverlayModule } from '@angular/cdk/overlay';
 
 @NgModule({
   declarations: [
